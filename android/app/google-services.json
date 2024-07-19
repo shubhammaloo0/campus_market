@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020142238588",
+    "project_id": "campus-marketplace-b7cbb",
+    "storage_bucket": "campus-marketplace-b7cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020142238588:android:2f6284924de7578fd482f9",
+        "android_client_info": {
+          "package_name": "com.example.campus_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ87xvxwUcJM7_jgUa9OGAQjYSHa674c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020142238588:android:14e4d9a83003cae6d482f9",
+        "android_client_info": {
+          "package_name": "com.example.campus_marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ87xvxwUcJM7_jgUa9OGAQjYSHa674c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
